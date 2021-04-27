@@ -1,7 +1,7 @@
 # portfolio
 
-
-'import requests'
+'code'
+import requests
 import urllib.request
 import time
 from bs4 import BeautifulSoup
@@ -86,4 +86,4 @@ plt.savefig('2kratings.png',bbox_inches='tight')
 
 plt.show()
 
-'
+'code'
