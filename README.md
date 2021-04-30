@@ -1,6 +1,6 @@
-# portfolio
+# Portfolio
 
-An example of a recent study I completed
+An example of a figure from a recent study that I completed:
 
 ![alt text][logo]
 
