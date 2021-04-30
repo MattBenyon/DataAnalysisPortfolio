@@ -14,7 +14,7 @@ An example figure from the study:
 Feel free to check out my write up available at the hyperlink on the heading or through my GitHub page.
 > Write-up coming soon once completed undergraduate exams
 
-# 2. [Linear Regression of the basketball 'four factors' from previous seasons to predict a teams success in the current season, based on the same metrics]([1. NBA 2K player ratings analysis](https://github.com/MattBenyon/DataAnalysisPortfolio/tree/main/2Kratings))
+# 2. [Linear Regression of the basketball 'four factors' from previous seasons to predict a teams success in the current season, based on the same metrics](https://github.com/MattBenyon/DataAnalysisPortfolio/tree/main/FourFactorsLinearRegression)
 > Project completed but need to write up and summarise my findings, will complete after undergraduate exams
 
 
