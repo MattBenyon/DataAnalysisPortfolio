@@ -5,7 +5,7 @@ Here are a list of my recent projects:
 - Acquiring the data: Scraped data from [2kratings.com](https://www.2kratings.com/), [basketballreference.com](https://www.basketball-reference.com/allstar/NBA_2021_voting.html)            and downloaded .csv file from [FiveThirtyEight](https://projects.fivethirtyeight.com/nba-player-ratings/). 
 - Cleaning the data: Cleaned the data by renaming columns, dropping nan's, splitting strings so player names matched format across dataframes etc.
 - Plotting the data: Used MatPlotLib to create plots of All-Star votes against NBA 2K ratings, FiveThirtyEights RAPTOR WAR metric against 2K ratings among others. Used Scipy package to fit a line to the appropriate figures. Provided a logarithmic version to show correlation.
-- Project was completed at own leisure with no aim. I wanted to test a hypothesis I had that NBA 2K player ratings were swayed more by popularity than by defensive impact. I verified this hypothesis but also acknowldged that a players popularity is mostly a product of their offensive ability. Overall I found that defensive impact had little correlation with a players rating and player popularity correlated strongly.
+- Project was completed at own leisure as a test of my developing scraping, cleaning and analysing skills. I wanted to test a hypothesis I had that NBA 2K player ratings were swayed more by popularity than by defensive impact. I verified this hypothesis but also acknowldged that a players popularity is mostly a product of their offensive ability. Overall I found that defensive impact had little correlation with a players rating and player popularity correlated strongly.
 
 An example figure from the study:
 
