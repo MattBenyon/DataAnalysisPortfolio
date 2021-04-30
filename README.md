@@ -1,6 +1,7 @@
 # Matt Benyon- Data science/analysis project portfolio
 
-Here are a list of my recent projects:
+This page is a summary of some projects that I have undertaken to demonstrate by ability as a data analyst and data scientist. I hope you take the time to read through the summaries or write-ups and view my code avaialable in the GitHub repository.
+
 # 1. [NBA 2K player ratings analysis](https://github.com/MattBenyon/DataAnalysisPortfolio/tree/main/2Kratings)
 - Acquiring the data: Scraped data from [2kratings.com](https://www.2kratings.com/), [basketballreference.com](https://www.basketball-reference.com/allstar/NBA_2021_voting.html)            and downloaded .csv file from [FiveThirtyEight](https://projects.fivethirtyeight.com/nba-player-ratings/). 
 - Cleaning the data: Cleaned the data by renaming columns, dropping nan's, splitting strings so player names matched format across dataframes etc.
