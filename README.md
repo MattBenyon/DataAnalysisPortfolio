@@ -10,7 +10,7 @@ An example figure from the study:
 
 ![2K rating vs All-star votes](https://raw.githubusercontent.com/MattBenyon/Matt-Benyon-Data-Analysis-Portfolio/main/2Kratings/2kvsvotes.png "NBA all-star votes plotted on a log scale against NBA 2K rating")
 
-Feel free to check out my write up available at the hyperlink on the heading.
+Feel free to check out my write up available at the hyperlink on the heading or through my GitHub page.
 
 
 # 2. Linear Regression of the basketball 'four factors' from previous seasons to predict a teams success in the current season, based on the same metrics
