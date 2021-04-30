@@ -2,6 +2,6 @@
 
 An example of a figure from a recent study that I completed:
 
-![alt text][logo]
+![2K rating vs All-star votes](https://github.com/MattBenyon/portfolio/blob/main/2kvsvotesLOG.png "NBA all-star votes plotted on a log scale against NBA 2K rating")
 
-[logo]: https://github.com/MattBenyon/portfolio/blob/main/2kvsvotesLOG.png "Logo Title Text 2"
+
