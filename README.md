@@ -1,4 +1,4 @@
-# Matt Benyon- Data science/analysis project portfolio
+# Matt Benyon
 
 This page is a summary of some projects that I have undertaken to demonstrate by ability as a data analyst and data scientist. I hope you take the time to read through the summaries or write-ups and view my code avaialable in the GitHub repository.
 
