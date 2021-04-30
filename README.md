@@ -2,8 +2,8 @@
 
 Here are a list of my recent projects:
 1. NBA 2K ratings analysis
-  -The data: Scraped data from [2kratings.com](https://www.2kratings.com/), [basketballreference.com](https://www.basketball-reference.com/allstar/NBA_2021_voting.html)            and downloaded .csv file from [FiveThirtyEight](https://projects.fivethirtyeight.com/nba-player-ratings/)
-  -
+-Acquering the data: Scraped data from [2kratings.com](https://www.2kratings.com/), [basketballreference.com](https://www.basketball-reference.com/allstar/NBA_2021_voting.html)            and downloaded .csv file from [FiveThirtyEight](https://projects.fivethirtyeight.com/nba-player-ratings/)
+-Cleaning the data: 
 
 An example of a figure from a recent study that I completed:
 
