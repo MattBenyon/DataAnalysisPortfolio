@@ -1,4 +1,4 @@
-# Matt Benyon
+# [Matt Benyon](https://github.com/MattBenyon?tab=repositories)
 
 This page is a summary of some projects that I have undertaken to demonstrate by ability as a data analyst and data scientist. I hope you take the time to read through the summaries/write-ups and/or view my code avaialable in the GitHub repository.
 
