@@ -22,5 +22,8 @@ Feel free to check out my write up available at the hyperlink on the heading or 
 `print('hello world')`
 
 
+# 3. [Analysis of Warzone loadout META I complete to determine which weapon choices are effective but underutilised](https://github.com/MattBenyon/WarzoneMETA)
+
+![2K rating vs All-star votes](https://raw.githubusercontent.com/MattBenyon/WarzoneMETA/main/WarzoneMeta.png)
 
 
