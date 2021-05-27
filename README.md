@@ -26,4 +26,4 @@ Feel free to check out my write up available at the hyperlink on the heading or 
 
 ![2K rating vs All-star votes](https://raw.githubusercontent.com/MattBenyon/WarzoneMETA/main/WarzoneMeta.png)
 
-
+"Meta can be used as an acronym for 'most effective tactics available' and calling something 'meta' means that it’s an effective way to achieve the goal of the game, whether it’s to beat other players or beat the game itself" according to https://www.grammarly.com/blog/meta-meaning/
