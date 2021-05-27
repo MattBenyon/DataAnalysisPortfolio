@@ -24,6 +24,9 @@ Feel free to check out my write up available at the hyperlink on the heading or 
 
 # 3. [Analysis of Warzone loadout META I complete to determine which weapon choices are effective but underutilised](https://github.com/MattBenyon/WarzoneMETA)
 
-![2K rating vs All-star votes](https://raw.githubusercontent.com/MattBenyon/WarzoneMETA/main/WarzoneMeta.png)
+![Warzone meta](https://raw.githubusercontent.com/MattBenyon/WarzoneMETA/main/WarzoneMeta.png)
 
 "Meta can be used as an acronym for 'most effective tactics available' and calling something 'meta' means that it’s an effective way to achieve the goal of the game, whether it’s to beat other players or beat the game itself" according to https://www.grammarly.com/blog/meta-meaning/
+
+I was attemtpting to recreate this style from the patch notes of a different game 
+![Rainbow Six Siege Example](https://staticctf.akamaized.net/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6LdEzBUjina2GF5jVEyjtv/bc61617cdf26ec488bbdb42b1156ff67/BalancingMatrixAtt_Y6S13.png)
