@@ -3,7 +3,7 @@
 This page is a summary of some projects that I have undertaken to demonstrate by ability as a data analyst and data scientist. I hope you take the time to read through the summaries/write-ups and/or view my code avaialable in the GitHub repository.
 
 
-# 1. [Linear Regression of the basketball 'four factors' from previous seasons to predict a teams success in the current season, based on the same metrics](https://github.com/MattBenyon/FourFactorsRegression/tree/master)
+# 1. [Linear Regression of the basketball 'four factors' from previous seasons to predict a teams win totals in the current season](https://github.com/MattBenyon/FourFactorsRegression/tree/master)
 > Project completed, write-up is in progress
 
 
