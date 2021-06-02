@@ -2,7 +2,13 @@
 
 This page is a summary of some projects that I have undertaken to demonstrate by ability as a data analyst and data scientist. I hope you take the time to read through the summaries/write-ups and/or view my code avaialable in the GitHub repository.
 
-# 1. [NBA 2K player ratings analysis](https://github.com/MattBenyon/2K-Ratings)
+
+# 1. [Linear Regression of the basketball 'four factors' from previous seasons to predict a teams success in the current season, based on the same metrics](https://github.com/MattBenyon/FourFactorsRegression/tree/master)
+> Project completed, write-up is in progress
+
+
+
+# 2. [NBA 2K player ratings analysis](https://github.com/MattBenyon/2K-Ratings)
 - Acquiring the data: Scraped data from [2kratings.com](https://www.2kratings.com/), [basketballreference.com](https://www.basketball-reference.com/allstar/NBA_2021_voting.html)            and downloaded .csv file from [FiveThirtyEight](https://projects.fivethirtyeight.com/nba-player-ratings/). 
 - Cleaning the data: Cleaned the data by renaming columns, dropping nan's, splitting strings so player names matched format across dataframes etc.
 - Plotting the data: Used MatPlotLib to create plots of All-Star votes against NBA 2K ratings, FiveThirtyEights RAPTOR WAR metric against 2K ratings among others. Used Scipy package to fit a line to the appropriate figures. Provided a logarithmic version to show correlation.
@@ -15,11 +21,6 @@ An example figure from the study:
 Feel free to check out my write up available at the hyperlink on the heading or through my GitHub page.
 > Write-up coming soon once completed undergraduate exams
 
-# 2. [Linear Regression of the basketball 'four factors' from previous seasons to predict a teams success in the current season, based on the same metrics](https://github.com/MattBenyon/FourFactorsLinearRegression)
-> Project completed but need to write up and summarise my findings, will complete after undergraduate exams
-
-
-`print('hello world')`
 
 
 # 3. [Analysis of Warzone loadout META I complete to determine which weapon choices are effective but underutilised](https://github.com/MattBenyon/WarzoneMETA)
