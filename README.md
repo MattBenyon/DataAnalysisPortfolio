@@ -1,6 +1,6 @@
 # NOTE
 
-Dear reader, this page is outdated and mainly composes of work from outside my studies. Since I have been compelting a masters degree in data science, I have had little time to update this page with some of my newer/better work. Feel free to look, but if you would like to see more evidence of proficiency, please do get in touch: mattbenyon@hotmail.com
+*Dear reader*, this page is outdated and mainly composes of work from outside my studies. Since I have been compelting a masters degree in data science, I have had little time to update this page with some of my newer/better work. Feel free to look, but if you would like to see more evidence of proficiency, please do get in touch: mattbenyon@hotmail.com
 
 
 # [Matt Benyon](https://github.com/MattBenyon?tab=repositories)
