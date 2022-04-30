@@ -1,4 +1,7 @@
 title: Matt Benyon
 desctription: >
   Portfolio
-theme: jekyll-theme-alembic
+  
+plugins:
+  jekyll-remote-theme
+remote_theme: daviddarnes/alembic@main
